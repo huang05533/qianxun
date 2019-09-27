@@ -1,0 +1,137 @@
+.rg-nav{
+	width: 100%;
+	height: 50px;
+}
+.rg-nav i{
+	display: block;
+	width: 250px;
+	height: 39px;
+	background-image: url('../images/sprite.png');
+	background-position: -27px 6px;
+	background-repeat: no-repeat;
+	margin-left: 230px;
+}
+.rg-ul{
+	width:600px;
+	height: 50px;
+	margin-left: 650px;
+}
+.rg-ul li a{
+	width: 160px;
+	line-height: 50px;
+	float: left;
+	text-align: center;
+	font-weight: bold;
+	position: relative;
+	top: -40px;
+}
+.rg-ul li .red{
+	color: red;
+	border-bottom: 2px solid red;
+}
+.dh-nav{
+	width: 100%;
+	height: 70px;
+	border: 1px solid #ccc;
+}
+.dh-nav i{
+	display: block;
+	width: 250px;
+	height: 39px;
+	background-image: url('../images/sprite.png');
+	background-position: -27px 6px;
+	background-repeat: no-repeat;
+	margin-left: 278px;
+}
+.dh-ul{
+	width:600px;
+	height: 50px;
+	margin-left: 700px;
+}
+.dh-ul li a{
+	width: 160px;
+	line-height: 50px;
+	float: left;
+	text-align: center;
+	font-weight: bold;
+	position: relative;
+	top: -40px;
+}
+.dh-ul li .red{
+	color: red;
+	border-bottom: 2px solid red;
+}
+.re-main{
+	width: 70%;
+	height: 1030px;
+	margin: 0px auto;
+	box-shadow: none;
+}
+.re-ul{
+ 	width: 100%;
+ 	height: 460px;
+ }
+.re-ul li{
+	width: 900px;
+ 	height: 100px;
+ 	margin: 20px;
+}
+.re-ul li p{
+ 	line-height: 30px;
+ 	font-size: 18px;
+ 	text-align: left;
+	margin-left: -20px;
+	clear: both;
+ }
+ .re-ul li .p1{
+ 	line-height: 22px;
+ 	font-size: 20px;
+ 	color: black;
+ 	font-weight: bold;
+ 	margin-bottom: 15px;
+ 	margin-left: -20px;
+ }
+ .t-table{
+ 	width: 900px;
+ 	height: 100px;
+ 	text-align: center;
+ 	font-size: 14px;
+ }
+ .t-table tr{
+	border: 1px solid red;
+ 	width: 1000px;
+ 	height: 30px;
+ 	background-color: #eff3f6;
+ }
+ .t-table tr:nth-child(1){
+ 	width: 1000px;
+ 	height: 40px;
+ 	background-color: #e4e7eb;
+ }
+.t1-table{
+ 	width: 500px;
+ 	height: 100px;
+ 	text-align: center;
+ 	font-size: 14px;
+ }
+ .t1-table tr{
+	border: 1px solid red;
+ 	width: 1000px;
+ 	height: 30px;
+ 	background-color: #eff3f6;
+ }
+ .t1-table tr:nth-child(1){
+ 	width: 1000px;
+ 	height: 40px;
+ 	background-color: #e4e7eb;
+ }
+ .re-main .p1{
+	margin-top: 40px;
+	line-height: 40px;
+	font-weight: bold;
+ }
+ .re-main .p2{
+	font-size: 14px;
+	line-height: 100px;
+	color: grey;
+ }

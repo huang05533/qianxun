@@ -1,0 +1,234 @@
+.my-nav{
+	width: 100%;
+	height: 50px;
+}
+.my-nav i{
+	display: block;
+	width: 250px;
+	height: 39px;
+	background-image: url('../images/sprite.png');
+	background-position: -27px 6px;
+	background-repeat: no-repeat;
+	margin-left: 230px;
+}
+.my-ul{
+	width:600px;
+	height: 50px;
+	margin-left: 650px;
+}
+.my-ul li a{
+	width: 160px;
+	line-height: 50px;
+	float: left;
+	text-align: center;
+	font-weight: bold;
+	position: relative;
+	top: -40px;
+}
+.my-ul li .red{
+	color: red;
+	border-bottom: 2px solid red;
+}
+.banner-left .logn{
+	background-color: #ff5f19;
+}
+.banner-left span{
+	background-color: white;
+}
+
+.yesterday,.ten{
+	width: 65%;
+	height: 300px;
+	margin: 0px auto;
+	box-shadow: none;
+	background-color: white;
+}
+.yesterday .icon{
+	width: 200px;
+	height: 31px;
+	box-shadow: none;
+}
+.yesterday .icon i,.ten .icon i{
+	width: 20px;
+	height: 20px;
+	display: block;
+	background-image: url('../images/sprite1.png');
+	background-position: -252px -2115px;
+	background-repeat: no-repeat;
+	position: relative;
+	top: 30px;
+	left: 14px;
+}
+.ten .icon i{
+	background-position: -250px -2180px;
+	top: 18px;
+	left: 5px;
+}
+.yesterday .sp{
+	position: relative;
+	top: 5px;
+	left: 3px;
+	width: 200px;
+	height: 28px;
+	box-shadow: none;
+}
+.yesterday .sp img{
+	position: relative;
+	top: -28px;
+	left: 160px;
+}
+ .yesterday .icon .yes,.ten .icon .yes{
+	line-height: 31px;
+	text-align: center;
+	font-weight: bold;
+	color: grey;
+	font-size: 18px;
+}
+.ye-circle{
+	width: 100%;
+	height: 270px;
+	box-shadow: none;
+}
+.ye-ul{
+	width: 90%;
+	height: 270px;
+	margin: 0px auto;
+}
+.ye-ul li{
+	width: 25%;
+	height: 200px;
+	margin: 29px 3%;
+	background-image: url('../images/circle.png');
+	background-repeat: no-repeat;
+	float: left;
+}
+.ye-ul li:nth-child(1){
+	margin-left: 50px;
+}
+.ye-ul li .scole,.ye-ul li .ji{
+	display: block;
+	width: 23px;
+	height: 39px;
+	font-size: 34px;	
+	position: relative;
+	top: 75px;
+	left: 76px;
+	color: #425766;
+}
+.ye-ul li .scole{
+	top: 75px;
+	left: 76px;
+	font-family: '微软雅黑';
+	font-weight: bold;
+}
+.ye-ul li .ji{
+	top: 49px;
+	left: 100px;
+	font-size: 18px;
+}
+.ye-ul li p{
+	width: 100px;
+	height: 20px;
+	position: relative;
+	top: 58px;
+	left: 52px;
+	text-align: center;
+	color: grey;
+}
+.ye-circle .wen{
+	width: 20px;
+	height: 20px;
+	display: block;
+	background-image: url('../images/sprite1.png');
+	background-position: -250px -2136px;
+	background-repeat: no-repeat;
+	position: relative;
+	top: -114px;
+	left: 185px;
+}
+.ten{
+	margin-top: 10px;
+}
+.ten .icon{
+	width: 500px;
+	height: 35px;
+	position: relative;
+	top: 20px;
+	left: 20px;
+	box-shadow: none;
+}
+.ten .icon .yes{
+	margin-left: -249px;
+	line-height: 16px;
+}
+.ten .icon .te-ul{
+	width: 290px;
+	height: 25px;
+	position: relative;
+	top: -20px;
+	left: 196px;
+}
+.ten .icon .te-ul li{
+	float: left;
+	width: 70px;
+	line-height: 25px;
+	margin: 0px 10px;
+	text-align: center;
+	font-weight: bold;
+	color: grey;
+}
+.ten .icon .te-ul li:hover{
+	border-bottom: 2px solid #88b7ee;
+	color: #88b7ee
+}
+.date,.hr,.hr-text{
+	box-shadow: none;
+}
+.hr{
+	width: 90%;
+	height: 1px;
+	background-color: #ccc;
+	position: relative;
+	top: 157px;
+	left: 5%;
+}
+.hr-ul{
+	width: 100%;
+	height: 20px;
+	position: relative;
+	top: 152px;
+	left: -10%;
+}
+.hr-ul li{
+	width: 4px;
+	height: 4px;
+	border-radius: 50%;
+	float: left;
+	background-color: skyblue;
+	margin: 0px 3.5%;
+}
+.hr-ul li:nth-child(1){
+	margin-left: -40px;
+}
+.hr-text{
+	width: 51%;
+	height: 36px;
+	position: relative;
+	top: -99px;
+	left: 24.5%;
+}
+.hr-text ul{
+	width: 100%;
+	height: 36px;
+}
+.hr-text li{
+	width: 8%;
+	height: 30px;
+	float: left;
+	text-align: center;
+	margin: 5px;
+}
+.hr-text li:nth-child(1){
+	width: 10%;
+	height: 30px;
+ }
